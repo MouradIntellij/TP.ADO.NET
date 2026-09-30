@@ -1,0 +1,12 @@
+# Réservé à l'enseignant — ne jamais pousser
+_CORRIGE_ENSEIGNANT_*
+
+# Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Word temp files
+~$*.docx
